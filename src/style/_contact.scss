@@ -1,0 +1,16 @@
+@import "colors";
+
+.contact {
+  height: 92vh;
+  width: 100%;
+  background-color: $cream;
+  background-image: linear-gradient(to bottom, $black, $cream);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.email {
+  text-decoration: none;
+  color: $black;
+}

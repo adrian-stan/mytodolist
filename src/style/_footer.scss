@@ -1,0 +1,11 @@
+@import "colors";
+
+.footer {
+  display: grid;
+  text-align: center;
+  align-items: center;
+  height: 6vh;
+  background-color: $black;
+  color: $cream;
+  font-size: 1.1rem;
+}
